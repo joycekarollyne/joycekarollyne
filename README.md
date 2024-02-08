@@ -1,7 +1,5 @@
 
 
-## Oiii eu sou a Joyce Karollyne, futura desenvolvedora fron end!
-
 
 
 <div align="center">  
