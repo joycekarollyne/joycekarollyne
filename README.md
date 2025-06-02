@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Joyce! 👋
 #### Bem-vindo!
 
- Estou cursando Analise e Desenvolvimento de Sistemas, sou uma pessoa muito interessada, dedicada, curiosa e adoro aprender. Gosto muito de entender como tudo funciona, mas, acima de tudo adoro colocar em prática o que aprendi.👩🏻‍💻 <br>
+ Estou cursando Análise e Desenvolvimento de Sistemas, sou uma pessoa muito interessada, dedicada, curiosa e adoro aprender. Gosto muito de entender como tudo funciona, mas, acima de tudo adoro colocar em prática o que aprendi.👩🏻‍💻 <br>
  Aqui no meu GitHub estou documentando meu processo de evolução. 😀<br>
 
 
@@ -24,8 +24,9 @@
 
 #### IDEs
 <div style="display: inline_block">
- <img  align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-</div> 
+ <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
+ <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+</div>
+  
           
 
