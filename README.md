@@ -1,8 +1,8 @@
-## Olá! Eu sou a Joyce! 👋
-#### Bem-vindo!
+# Olá! Eu sou a Joyce! 👋
+## Bem-vindo!
 
- Estou cursando Análise e Desenvolvimento de Sistemas, sou uma pessoa muito interessada, dedicada, curiosa e adoro aprender. Gosto muito de entender como tudo funciona, mas, acima de tudo adoro colocar em prática o que aprendi.👩🏻‍💻 <br>
- Aqui no meu GitHub estou documentando meu processo de evolução. 😀<br>
+#### Estou cursando Análise e Desenvolvimento de Sistemas, sou uma pessoa muito interessada, dedicada, curiosa e adoro aprender. Gosto muito de entender como tudo funciona, mas, acima de tudo adoro colocar em prática o que aprendi.👩🏻‍💻 <br>
+#### Aqui no meu GitHub estou documentando meu processo de evolução. 😀<br>
 
 
 
